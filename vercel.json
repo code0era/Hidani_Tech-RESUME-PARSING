@@ -3,7 +3,10 @@
   "builds": [
     {
       "src": "backend/index.js",
-      "use": "@vercel/node"
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": "backend/node_modules/pdfjs-dist/build/**"
+      }
     },
     {
       "src": "frontend/package.json",
