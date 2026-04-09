@@ -39,7 +39,8 @@ function App() {
     formData.append("resume", resumeFile);
 
     try {
-      const response = await axios.post("http://localhost:5000/api/parse-and-match", formData, {
+      // Use relative path for Vercel deployment (Vercel routes /api to the backend via our vercel.json)
+      const response = await axios.post("/api/parse-and-match", formData, {
         headers: { "Content-Type": "multipart/form-data" }
       });
       setResult(response.data);
