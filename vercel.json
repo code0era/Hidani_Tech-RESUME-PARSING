@@ -5,7 +5,10 @@
       "src": "backend/index.js",
       "use": "@vercel/node",
       "config": {
-        "includeFiles": "backend/node_modules/pdfjs-dist/build/**"
+        "includeFiles": [
+          "backend/node_modules/pdf-parse/dist/**",
+          "backend/node_modules/pdf-parse/**"
+        ]
       }
     },
     {
