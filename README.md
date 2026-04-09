@@ -12,7 +12,25 @@ A highly scalable, algorithmic Applicant Tracking System (ATS) designed to mathe
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![No LLMs](https://img.shields.io/badge/AI_Free-100%25_Algorithmic-red.svg?style=for-the-badge)
 
+## DEPLOYED LINK
+
+https://hidani-tech-resume-parsing.vercel.app/
+
 ---
+## Screenshots 
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-09 180102" src="https://github.com/user-attachments/assets/f5f332e8-8f58-4328-be5d-fe64b2c51df5" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-09 174546" src="https://github.com/user-attachments/assets/2ea18412-e5b2-41dc-8b3f-707e8e58466b" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-09 174559" src="https://github.com/user-attachments/assets/8bab59ec-9b45-44b2-8b17-679617bd7e6d" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-09 174608" src="https://github.com/user-attachments/assets/7306ed44-1b3a-4627-a431-83ee851358f6" />
+
+
+
+
+
 
 ## 🎯 Evaluation Criteria Addressed
 
